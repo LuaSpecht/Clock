@@ -1,6 +1,6 @@
 # Relógio Digital
 
-![preview](./.github/preview.jpeg)
+![preview](./.github/relogio.PNG)
 
 >Link para acesso: https://luaspecht.github.io/Clock/
 
